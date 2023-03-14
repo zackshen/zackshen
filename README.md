@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg">
+</div>
+
+
+<h1 align="center">👋👋👋,  I'm a Zack.</h1>
+<h3 align="center">A software developer</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackshen&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zack&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zackshen&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zackshen&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zackshen&theme=github_dark)
