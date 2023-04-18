@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<h1 align="center">👋👋👋,  I'm a Zack.</h1>
-<h3 align="center">A software developer</h3>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackshen&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zack&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zackshen&theme=github_dark)
